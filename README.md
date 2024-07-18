@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A lunatic that does all things from scratch!</h3>
 # About Me:
-- 🌱 I’m currently learning **JavaScript, TypeScript, Computing Algorithms**<br><br>- 👨‍💻 All of my projects are available at [github](https://github.com/prathameshrp)<br><br>- 💬 Ask me about **Mathematics**<br><br>- 📫 How to reach me **prathamesh.math@gmail.com**<br><br>- ⚡ Fun fact **Bungee gum has the properties of both rubber and gum**
+
+🌱 I’m currently learning **JavaScript, TypeScript, Computing Algorithms**<br><br>- 👨‍💻 All of my projects are available at [github](https://github.com/prathameshrp)<br><br>- 💬 Ask me about **Mathematics**<br><br>- 📫 How to reach me **prathamesh.math@gmail.com**<br><br>- ⚡ Fun fact **Bungee gum has the properties of both rubber and gum**
 
 
 ## 🌐 Socials:
