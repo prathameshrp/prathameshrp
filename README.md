@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A lunatic that does all things from scratch!</h3>
----
+<br>
 [![](https://visitcount.itsvg.in/api?id=prathameshrp&icon=5&color=0)](https://visitcount.itsvg.in)
 <h1>💫 About Me:</h1>
 
