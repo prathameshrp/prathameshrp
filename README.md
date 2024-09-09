@@ -3,6 +3,20 @@
 
 <p>  I'm programming since last release of broweserify. At the time I didn't understood the basic stuffs, And while learning I always wondered about how these stuffs are actually applied in real applications. To answer my curiosity I've spent extra time digging through the core of languages like C++ to understand how each bit was implemented. As I worked my way up I realised I was trying to reinvent the wheel, but understanding each moving piece has become a commitment and I always look forward to learn new things. I'm thrilled to connect with all the amazing people of programming space.</p>
 
+<div align="center">
+  
+![active-man-working-on-web-design](https://github.com/user-attachments/assets/b08e32c5-9254-436b-b8b4-5eabc3073974)
+
+</div>
+
+<sup align="right"> 
+
+  Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a> 
+  
+</sup>
+
+<br>
+
 - 🌱 I’m currently learning <br>
   - [ ] **Web Developement** to showcase my personal projects,
   - [x] **Computing Algorithms** I always liked this as a subject
