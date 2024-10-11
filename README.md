@@ -44,6 +44,10 @@
   <img src="https://c.tenor.com/R_46y_WzEn4AAAAC/tenor.gif" alt="divider" style="width: 100vw; height: 1px;">
 </div>
 
+# Holopin Badges:
+
+[![@prathameshrp's Holopin board](https://holopin.io/api/user/board?user=prathameshrp)](https://holopin.io/@prathameshrp)
+
 # 📊 GitHub Stats:
 ---
 ![](https://github-readme-stats.vercel.app/api?username=prathameshrp&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
