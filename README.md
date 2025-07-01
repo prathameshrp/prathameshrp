@@ -48,8 +48,7 @@
 </div>
 
 # Holopin Badges:
-
-[![@prathameshrp's Holopin board](https://holopin.io/api/user/board?user=prathameshrp)](https://holopin.io/@prathameshrp)
+[![An image of @prathameshrp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathameshrp)](https://holopin.io/@prathameshrp)
 
 # 📊 GitHub Stats:
 ---
